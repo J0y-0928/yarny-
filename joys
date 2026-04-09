@@ -1,0 +1,21 @@
+<html>
+
+    <html lang="en">
+    <head>
+    <title>yarny</title>
+    <link rel="icon" type="image/png" herf="C:\Users\Royal\Downloads\favicone.png">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Saira+Stencil:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+ 
+    <style>
+    body {
+    .h1 {color:lightblue}
+    .p {color:rosybrown}
+    .background{background:linear-gradient(pink , lightblue)}
+     nav{background:peachpuff;}
+     a:hover{color:violet}
+
+</style>
+    <body class="body">
+    <p class="p"> </p>
+    <a href=
+    </html>
