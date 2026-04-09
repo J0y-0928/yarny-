@@ -1,0 +1,16 @@
+.main {
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(135deg, rgb(254, 197, 226), rgb(208, 248, 255));
+}
+.box{
+    width:80%;
+    height:fit-content;
+    box-shadow: rgb(53, 53, 53);
+    border-radius: 5%;
+}
+.h1{color:lightblue}
+.video:hover{
+    opacity: 0.5;
+    transition: 1s;
+}
